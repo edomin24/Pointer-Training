@@ -1,2 +1,2 @@
 #Pointer Training
-Practicing C pointers and basics.
+- Practicing C pointers and basics.
